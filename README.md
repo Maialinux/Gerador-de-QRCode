@@ -43,9 +43,11 @@ Meu site: https://maialinux.com
 
 <br>
 
-## Para ver como foi criada a calculadora acesse meu canal:
+## Para saber mais sobre linux, python, acesse meu canal:
 
 ### https://www.youtube.com/@maialinux-oficial 
+
+<br>
 
 ## Para ver modelagens 3d, construção de jogos na Godot Engine, acesse:
 
