@@ -1,5 +1,5 @@
 # Gerador de QRCode
-Gerador de QRCode feito com Python3.11.2 e módulo tkinter
+Gerador de QRCode feito com Python3.11.2 e módulos tkinter, customtkinter e qrcode
 <hr>
 
 <p align="center">
