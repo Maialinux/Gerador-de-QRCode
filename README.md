@@ -43,7 +43,8 @@ Para sair da virtualização digite:
 
   - pip install qrcode pillow customtkinter
   
-  - Obs: O pillow é usado para tratamento de imagens e para alguns tipos de extensões que não são habilitados no tkinter.
+  - Obs 1: O pillow é usado para tratamento de imagens e para alguns tipos de extensões que não são habilitados no tkinter.
+  - Obs 2: As fontes das labels apresentadas na imagem acima, são do meu sistema. Mude as fontes das labels para fontes existentes em seu pc, tais como fonte Arial, Impact e etc...
 
   <br>
   <hr>
