@@ -23,7 +23,7 @@ Para sair da virtualização digite:
 
   - deactivate
   
-
+<br>
 <hr>
 <br>
 
@@ -35,6 +35,7 @@ Para sair da virtualização digite:
 
   - pip install -r requirement.txt
 
+<br>
 <hr>
 <br>
 
