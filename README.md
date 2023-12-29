@@ -3,6 +3,15 @@ Gerador de QRCode feito com Python3.11.2 e módulo tkinter
 <hr>
 
 <p align="center">
+  
+## Imagem do programa.
+
+<br>
+<img src="imagem.png">
+</p>
+<hr>
+
+<br>
 
 ### Prepare o ambiente virtual primeiro. Os comandos podem variar mas eu usei os seguinte comando no meu Gnu/Linux:
 
@@ -31,10 +40,16 @@ Para sair da virtualização digite:
 
 ### Mas eu instalei assim:
 
-  - pip install qrcode pillow
+  - pip install qrcode pillow customtkinter
+  
+  - Obs: O pillow é usado para tratamento de imagens e para alguns tipos de extensões que não são habilitados no tkinter.
 
+  <br>
+  <hr>
+  <br>
   
 ## Imagem QRCode abaixo aponta para meu site.
+
 <br>
 Meu site: https://maialinux.com
 <img src="QRCodeExportado.png">
